@@ -1,0 +1,17 @@
+{
+    "name": "oktokod/di",
+    "description": "Simple PHP DI Container",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Oktokod\\DI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oktokod",
+            "email": "oktokod@protonmail.com"
+        }
+    ],
+    "require": {}
+}
