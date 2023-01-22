@@ -1,0 +1,18 @@
+{
+    "name": "oktokod/di",
+    "description": "Simple PHP Dependency Injection",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oktokod\\DI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oktokod",
+            "email": "oktokod@protonmail.com"
+        }
+    ],
+    "require": {}
+}
